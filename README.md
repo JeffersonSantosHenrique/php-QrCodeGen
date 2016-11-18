@@ -1,0 +1,3 @@
+# php-QrCodeGen
+
+Qrcode generator
